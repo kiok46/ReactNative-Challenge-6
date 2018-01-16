@@ -1,0 +1,52 @@
+{
+  "name": "react-native-progress",
+  "version": "3.4.0",
+  "description": "Progress indicators and spinners for React Native using ReactART",
+  "main": "index.js",
+  "scripts": {
+    "test": "eslint *.js Shapes"
+  },
+  "keywords": [
+    "react-native",
+    "react-component",
+    "react-native-component",
+    "react",
+    "mobile",
+    "ios",
+    "ui",
+    "progress",
+    "progressindicator",
+    "circle",
+    "pie",
+    "bar",
+    "progressbar",
+    "indeterminate",
+    "spinner",
+    "animation"
+  ],
+  "author": {
+    "name": "Joel Arvidsson",
+    "email": "joel@oblador.se"
+  },
+  "homepage": "https://github.com/oblador/react-native-progress",
+  "bugs": {
+    "url": "https://github.com/oblador/react-native-progress/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/oblador/react-native-progress.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "babel": "^6.5.2",
+    "babel-eslint": "^7.0.0",
+    "eslint": "^3.7.1",
+    "eslint-config-airbnb": "^12.0.0",
+    "eslint-plugin-import": "^1.16.0",
+    "eslint-plugin-jsx-a11y": "^2.2.3",
+    "eslint-plugin-react": "^6.4.1"
+  },
+  "dependencies": {
+    "prop-types": "^15.5.8"
+  }
+}
